@@ -11,6 +11,8 @@ export const s = StyleSheet.create({
   title: {
     fontFamily: fontFamily.bold,
     color: colors.gray[600],
+    fontSize: 18
+
 
   },
   subtitle:{
